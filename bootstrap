@@ -1,0 +1,22 @@
+# Web App With Node.js, Express, Bootstrap & Stormpath
+
+```
+mkdir webapp
+cd webapp
+npm init
+```
+```
+name: (webapp)
+version: (0.0.0)
+description: new app
+entry point: (index.js) app.js
+test command:
+git repository:
+keywords:
+author:
+license: (ISC) MIT
+```
+```
+cat package.json
+npm i --save express express-stormpath jade forms csurf xtend
+```
